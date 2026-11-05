@@ -1,0 +1,36 @@
+{
+    "students": [
+        "Riya Sharma",
+        "Palak Gangwar",
+        "Rahanuma",
+        "Anushka",
+        "Richa Sharma",
+        "Prachi Sharma",
+        "Yashi",
+        "Sanskriti",
+        "Neha"
+    ],
+    "attendance": {
+        "2026-11-05": {
+            "Riya Sharma": "Absent",
+            "Palak Gangwar": "Present",
+            "Rahanuma": "Present",
+            "Anushka": "Absent",
+            "Richa Sharma": "Absent",
+            "Prachi Sharma": "Present",
+            "Yashi": "Present",
+            "Sanskriti": "Present"
+        }
+    },
+    "status": {
+        "Riya Sharma": "Active",
+        "Palak Gangwar": "Active",
+        "Rahanuma": "Active",
+        "Anushka": "Active",
+        "Richa Sharma": "Active",
+        "Prachi Sharma": "Active",
+        "Yashi": "Active",
+        "Sanskriti": "Active",
+        "Neha": "Inactive"
+    }
+}
